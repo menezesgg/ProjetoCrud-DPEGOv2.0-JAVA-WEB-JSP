@@ -3,6 +3,10 @@
 Sistema de Aquisição e Processamento Automático  de Informações de Assistidos e Assistidas da  Defensoria Pública do Estado de Goiás  (DPEGO-v2.0) 
 JAVA JSP, BANCO DE DADOS MYSQL, HTML, CSS
 
+Data: 19/07/2021
+
+Desenvolvido como atividade na vaga de estágio da Defensória Pública De Goiás.
+
 Editar, Cadastar, Atender, Atualizar
 
 O que é a Defensoria Pública do Estado?
