@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.clear {
+    clear: both;
+}
+
+.center {
+    width: 20%;
+    margin-top: -30px;
+    margin-left: -130px;
+}
+
+.title {
+    margin-top: -120px;
+}
+
+#footer p {
+    text-align: center;
+    margin-top: -30px;
+    font-size: 15px;
+}

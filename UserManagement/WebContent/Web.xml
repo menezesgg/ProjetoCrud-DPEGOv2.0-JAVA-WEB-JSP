@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <servlet-mapping>
+    <servlet-name>default</servlet-name>
+    <url-pattern>*.png</url-pattern>
+    <url-pattern>*.jpg</url-pattern>
+</servlet-mapping>
+
